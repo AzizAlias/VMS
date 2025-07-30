@@ -1,0 +1,25 @@
+{
+  "name": "vms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.9",
+    "@tailwindcss/typography": "^0.5.15",
+    "chart.js": "^4.4.7",
+    "express": "^4.21.2",
+    "flowbite": "^2.5.2",
+    "mysql2": "^3.12.0",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.0"
+  },
+  "keywords": [],
+  "description": ""
+}
