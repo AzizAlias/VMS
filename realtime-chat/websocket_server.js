@@ -9,9 +9,9 @@ console.log('WebSocket server is running on ws://localhost:8080');
 // Database connection
 const db = mysql.createConnection({
     host: 'localhost',
-    user: 'root', // Replace with your MySQL username
-    password: '', // Replace with your MySQL password
-    database: 'volunteer_management' // Replace with your database name
+    user: 'root', 
+    password: '',
+    database: 'volunteer_management' 
 });
 
 db.connect((err) => {
